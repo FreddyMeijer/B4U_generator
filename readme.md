@@ -11,7 +11,7 @@ Om de code goed uit te voeren moet je de code downloaden en de benodigde pakkett
 2. Open jouw terminal en navigeer naar de gewenste opslagloctie en gebruik `git clone https://github.com/FreddyMeijer/B4U_generator.git`
 3. Open de map waarin je de repository hebt opgeslagen
 4. Voer het commando `pip install -r requirements.txt` uit
-5. Voer het commando `python maakB4U.py` uit
+5. Voer het commando `python3 maakB4U.py` uit
 
 ## Templates
 De templates hebben we nodig om straatnamen, kleuren en automerken te verkrijgen voor het B4U bestand. De inhoud van de tekstbestanden is gegenereerd door ChatGPT door simpelweg te vragen om 100 willekeurige straatnamen (in Leiden), kleuren en automerken. De templates worden gebruikt in `templateFunctions.py`.
