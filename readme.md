@@ -50,4 +50,4 @@ Als de code van `maakB4U.py` wordt uitgevoerd, worden allereerst een drietal var
 
 `vandaag` wordt gevuld met de datumtijdstempel van het moment van uitvoeren van de code. Het format wordt gelijkgesteld aan yyyymmddhhmm. `belasting` is een array met alle mogelijke belastingbedragen. Deze zijn uit te breiden of te veranderen. Uit deze array wordt een willekeurig belastingbedrag gekozen. `aantalregels` bepaalt hoeveel naheffingen er in het bestand komen. Op dit moment wordt een willekeurig aantal regels gegenereerd in de range 100 tot 250.
 
-Het B4U bestand krijgt een naam die bestaat uit de datum en het aantal regels (bijvoorbeeld 202406300823_testbestand_216_regels.b4u). Dit bestand wordt opgelagen in de map met de naam <i>testbestanden</i>. Bij het downloaden van de repository is deze map leeg.
+Het B4U bestand krijgt een naam die bestaat uit de datum en het aantal regels (bijvoorbeeld 202406300823_testbestand_216_regels.b4u). Dit bestand wordt opgelagen in de map met de naam <i>testbestanden</i>. Bij het downloaden van de repository staat er al een voorbeeld in de map.
